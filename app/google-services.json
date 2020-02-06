@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951783157803",
+    "firebase_url": "https://imageret-d8f08.firebaseio.com",
+    "project_id": "imageret-d8f08",
+    "storage_bucket": "imageret-d8f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951783157803:android:c2917c400e46055b953a6e",
+        "android_client_info": {
+          "package_name": "com.example.imageret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951783157803-qlgmnumjvancvo9pjalng7c54bios606.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imageret",
+            "certificate_hash": "6e45ba66b087044dcff778ded84b93784eb4ec1b"
+          }
+        },
+        {
+          "client_id": "951783157803-3ulrb2vvj6ffi18s0lts22l8h55a1r7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUxNXM82Z-b_EjuWZpR45JB6Q_Kl0YZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951783157803-3ulrb2vvj6ffi18s0lts22l8h55a1r7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
